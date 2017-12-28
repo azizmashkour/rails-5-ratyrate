@@ -1,4 +1,4 @@
-# RatyRate Stars Rating Gem
+# RatyRate Stars Rating Gem (Compatible with Rails 5)
 
 A Ruby Gem that wrap the functionality of [jQuery Raty](https://github.com/wbotelhos/raty) library, and provides optional IMDB style rating.
 
